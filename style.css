@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #f0e8c5;
+  }
+
+  div {
+    margin-top: 15px;
+  }
+
+  
+  .image-section {
+  /* Corrige el valor de display a flex */
+    display: flx;
+  /* Corrige el valor de justify-content a center */	  justify-content: space-center;
+  }
+
+  .section-style {
+  /* Corrige el nombre de las propiedades del margen derecho e izquierdo */
+    marginright: 25px;
+    marginleft: 25px;
+  /* Corrige el color de la propiedad background-color */
+      backColor: white;
+  }
